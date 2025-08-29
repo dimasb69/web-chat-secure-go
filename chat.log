@@ -1,0 +1,342 @@
+2025/08/29 11:07:46 Mensaje recibido de QHVzZXI0MTU=: SG9sYQ==
+2025/08/29 11:15:23 http: TLS handshake error from 192.168.100.26:36892: client sent an HTTP request to an HTTPS server
+2025/08/29 11:15:23 http: TLS handshake error from 192.168.100.26:36908: client sent an HTTP request to an HTTPS server
+2025/08/29 11:15:31 http: TLS handshake error from 192.168.100.26:33470: client sent an HTTP request to an HTTPS server
+2025/08/29 11:15:31 http: TLS handshake error from 192.168.100.26:33482: client sent an HTTP request to an HTTPS server
+2025/08/29 11:16:11 http: TLS handshake error from 192.168.100.26:40640: client sent an HTTP request to an HTTPS server
+2025/08/29 11:16:11 http: TLS handshake error from 192.168.100.26:40656: client sent an HTTP request to an HTTPS server
+2025/08/29 11:16:12 http: TLS handshake error from 192.168.100.26:40672: client sent an HTTP request to an HTTPS server
+2025/08/29 11:16:12 http: TLS handshake error from 192.168.100.26:40678: client sent an HTTP request to an HTTPS server
+2025/08/29 11:16:46 http: TLS handshake error from [::1]:37352: client sent an HTTP request to an HTTPS server
+2025/08/29 11:20:34 http: TLS handshake error from [::1]:39138: remote error: tls: unknown certificate
+2025/08/29 11:20:38 http: TLS handshake error from [::1]:36270: remote error: tls: unknown certificate
+2025/08/29 11:20:38 http: TLS handshake error from [::1]:36292: client sent an HTTP request to an HTTPS server
+2025/08/29 11:20:41 http: TLS handshake error from [::1]:36304: client sent an HTTP request to an HTTPS server
+2025/08/29 11:20:44 http: TLS handshake error from [::1]:36314: client sent an HTTP request to an HTTPS server
+2025/08/29 11:20:47 http: TLS handshake error from [::1]:36316: client sent an HTTP request to an HTTPS server
+2025/08/29 11:20:50 http: TLS handshake error from [::1]:56972: client sent an HTTP request to an HTTPS server
+2025/08/29 11:20:56 http: TLS handshake error from [::1]:57000: client sent an HTTP request to an HTTPS server
+2025/08/29 11:20:59 http: TLS handshake error from [::1]:52424: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:02 http: TLS handshake error from [::1]:52438: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:05 http: TLS handshake error from [::1]:52448: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:08 http: TLS handshake error from [::1]:59656: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:11 http: TLS handshake error from [::1]:59664: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:15 http: TLS handshake error from [::1]:59666: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:18 http: TLS handshake error from [::1]:53444: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:23 http: TLS handshake error from [::1]:53454: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:29 http: TLS handshake error from [::1]:38626: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:37 http: TLS handshake error from [::1]:38632: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:44 http: TLS handshake error from [::1]:46342: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:51 http: TLS handshake error from [::1]:39274: client sent an HTTP request to an HTTPS server
+2025/08/29 11:21:56 http: TLS handshake error from [::1]:39276: client sent an HTTP request to an HTTPS server
+2025/08/29 11:22:04 http: TLS handshake error from [::1]:40100: client sent an HTTP request to an HTTPS server
+2025/08/29 11:22:10 http: TLS handshake error from [::1]:60002: client sent an HTTP request to an HTTPS server
+2025/08/29 11:22:16 http: TLS handshake error from [::1]:60018: client sent an HTTP request to an HTTPS server
+2025/08/29 11:22:22 http: TLS handshake error from [::1]:40452: client sent an HTTP request to an HTTPS server
+2025/08/29 11:22:29 http: TLS handshake error from [::1]:43470: client sent an HTTP request to an HTTPS server
+2025/08/29 11:22:34 http: TLS handshake error from [::1]:43474: client sent an HTTP request to an HTTPS server
+2025/08/29 11:22:40 http: TLS handshake error from [::1]:41904: client sent an HTTP request to an HTTPS server
+2025/08/29 11:22:46 http: TLS handshake error from [::1]:41916: client sent an HTTP request to an HTTPS server
+2025/08/29 11:22:50 http: TLS handshake error from [::1]:47490: client sent an HTTP request to an HTTPS server
+2025/08/29 11:22:56 http: TLS handshake error from [::1]:47496: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:02 http: TLS handshake error from [::1]:41290: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:09 http: TLS handshake error from [::1]:45532: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:13 http: TLS handshake error from [::1]:45534: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:17 http: TLS handshake error from [::1]:49760: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:22 http: TLS handshake error from [::1]:49770: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:29 http: TLS handshake error from [::1]:47482: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:33 http: TLS handshake error from [::1]:47488: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:38 http: TLS handshake error from [::1]:56044: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:45 http: TLS handshake error from [::1]:56058: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:52 http: TLS handshake error from [::1]:58180: client sent an HTTP request to an HTTPS server
+2025/08/29 11:23:59 http: TLS handshake error from [::1]:52454: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:04 http: TLS handshake error from [::1]:52458: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:08 http: TLS handshake error from [::1]:39232: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:16 http: TLS handshake error from [::1]:39244: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:23 http: TLS handshake error from [::1]:33064: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:29 http: TLS handshake error from [::1]:36988: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:37 http: TLS handshake error from [::1]:36994: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:40 http: TLS handshake error from [::1]:56254: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:43 http: TLS handshake error from [::1]:56264: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:46 http: TLS handshake error from [::1]:56274: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:49 http: TLS handshake error from [::1]:39294: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:52 http: TLS handshake error from [::1]:39306: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:55 http: TLS handshake error from [::1]:39312: client sent an HTTP request to an HTTPS server
+2025/08/29 11:24:58 http: TLS handshake error from [::1]:44506: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:01 http: TLS handshake error from [::1]:44512: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:04 http: TLS handshake error from [::1]:44520: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:07 http: TLS handshake error from [::1]:44528: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:10 http: TLS handshake error from [::1]:54276: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:13 http: TLS handshake error from [::1]:54284: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:16 http: TLS handshake error from [::1]:54288: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:20 http: TLS handshake error from [::1]:42402: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:25 http: TLS handshake error from [::1]:42410: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:32 http: TLS handshake error from [::1]:45434: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:34 http: TLS handshake error from 127.0.0.1:43000: remote error: tls: unknown certificate
+2025/08/29 11:25:53 http: TLS handshake error from 127.0.0.1:33782: remote error: tls: unknown certificate
+2025/08/29 11:25:53 http: TLS handshake error from 127.0.0.1:33802: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:56 http: TLS handshake error from 127.0.0.1:33810: client sent an HTTP request to an HTTPS server
+2025/08/29 11:25:59 http: TLS handshake error from 127.0.0.1:42374: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:02 http: TLS handshake error from 127.0.0.1:42384: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:05 http: TLS handshake error from 127.0.0.1:42388: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:08 http: TLS handshake error from 127.0.0.1:55392: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:11 http: TLS handshake error from 127.0.0.1:55404: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:14 http: TLS handshake error from 127.0.0.1:55418: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:17 http: TLS handshake error from 127.0.0.1:60900: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:20 http: TLS handshake error from 127.0.0.1:60908: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:23 http: TLS handshake error from 127.0.0.1:60912: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:27 http: TLS handshake error from 127.0.0.1:60914: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:30 http: TLS handshake error from 127.0.0.1:35016: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:34 http: TLS handshake error from 127.0.0.1:35018: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:38 http: TLS handshake error from 127.0.0.1:41760: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:41 http: TLS handshake error from 127.0.0.1:41772: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:44 http: TLS handshake error from 127.0.0.1:41780: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:47 http: TLS handshake error from 127.0.0.1:41792: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:50 http: TLS handshake error from 127.0.0.1:48756: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:53 http: TLS handshake error from 127.0.0.1:48762: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:56 http: TLS handshake error from 127.0.0.1:48776: client sent an HTTP request to an HTTPS server
+2025/08/29 11:26:59 http: TLS handshake error from 127.0.0.1:32918: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:02 http: TLS handshake error from 127.0.0.1:32930: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:05 http: TLS handshake error from 127.0.0.1:32946: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:08 http: TLS handshake error from 127.0.0.1:59498: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:11 http: TLS handshake error from 127.0.0.1:59506: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:14 http: TLS handshake error from 127.0.0.1:59516: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:18 http: TLS handshake error from 127.0.0.1:38406: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:22 http: TLS handshake error from 127.0.0.1:38418: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:26 http: TLS handshake error from 127.0.0.1:38428: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:32 http: TLS handshake error from 127.0.0.1:59608: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:39 http: TLS handshake error from 127.0.0.1:54986: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:45 http: TLS handshake error from 127.0.0.1:54998: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:51 http: TLS handshake error from 127.0.0.1:57566: client sent an HTTP request to an HTTPS server
+2025/08/29 11:27:59 http: TLS handshake error from 127.0.0.1:56320: client sent an HTTP request to an HTTPS server
+2025/08/29 11:28:05 http: TLS handshake error from 127.0.0.1:56334: client sent an HTTP request to an HTTPS server
+2025/08/29 11:28:12 http: TLS handshake error from 127.0.0.1:53278: client sent an HTTP request to an HTTPS server
+2025/08/29 11:28:18 http: TLS handshake error from 127.0.0.1:50036: client sent an HTTP request to an HTTPS server
+2025/08/29 11:28:25 http: TLS handshake error from 127.0.0.1:50052: client sent an HTTP request to an HTTPS server
+2025/08/29 11:28:31 http: TLS handshake error from 127.0.0.1:60838: client sent an HTTP request to an HTTPS server
+2025/08/29 11:28:38 http: TLS handshake error from 127.0.0.1:33086: client sent an HTTP request to an HTTPS server
+2025/08/29 11:28:42 http: TLS handshake error from 127.0.0.1:33092: client sent an HTTP request to an HTTPS server
+2025/08/29 11:28:49 http: TLS handshake error from 127.0.0.1:51392: client sent an HTTP request to an HTTPS server
+2025/08/29 11:28:56 http: TLS handshake error from 127.0.0.1:51400: client sent an HTTP request to an HTTPS server
+2025/08/29 11:29:00 http: TLS handshake error from 127.0.0.1:41428: client sent an HTTP request to an HTTPS server
+2025/08/29 11:29:07 http: TLS handshake error from 127.0.0.1:41430: client sent an HTTP request to an HTTPS server
+2025/08/29 11:29:14 http: TLS handshake error from 127.0.0.1:50344: client sent an HTTP request to an HTTPS server
+2025/08/29 11:29:40 http: TLS handshake error from 127.0.0.1:34110: client sent an HTTP request to an HTTPS server
+2025/08/29 11:29:41 Error al actualizar a WebSocket: websocket: the client is not using the websocket protocol: 'upgrade' token not found in 'Connection' header
+2025/08/29 11:29:47 http: TLS handshake error from 127.0.0.1:34126: client sent an HTTP request to an HTTPS server
+2025/08/29 11:29:53 http: TLS handshake error from 127.0.0.1:56354: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:01 http: TLS handshake error from 127.0.0.1:57520: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:06 http: TLS handshake error from 127.0.0.1:57530: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:13 http: TLS handshake error from 127.0.0.1:50134: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:17 http: TLS handshake error from 127.0.0.1:50138: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:22 http: TLS handshake error from 127.0.0.1:40750: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:26 http: TLS handshake error from 127.0.0.1:40766: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:32 http: TLS handshake error from 127.0.0.1:47778: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:36 http: TLS handshake error from 127.0.0.1:47782: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:42 http: TLS handshake error from 127.0.0.1:45042: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:48 http: TLS handshake error from 127.0.0.1:33202: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:52 http: TLS handshake error from 127.0.0.1:33204: client sent an HTTP request to an HTTPS server
+2025/08/29 11:30:59 http: TLS handshake error from 127.0.0.1:56102: client sent an HTTP request to an HTTPS server
+2025/08/29 11:31:06 http: TLS handshake error from 127.0.0.1:56116: client sent an HTTP request to an HTTPS server
+2025/08/29 11:31:12 http: TLS handshake error from 127.0.0.1:47016: client sent an HTTP request to an HTTPS server
+2025/08/29 11:39:21 http: TLS handshake error from 127.0.0.1:45480: client sent an HTTP request to an HTTPS server
+2025/08/29 11:39:27 http: TLS handshake error from 127.0.0.1:45494: remote error: tls: unknown certificate
+2025/08/29 11:39:32 http: TLS handshake error from 127.0.0.1:51420: remote error: tls: unknown certificate
+2025/08/29 11:39:39 Mensaje recibido de QHVzZXI3NDA0: SG9sYSE=
+2025/08/29 11:39:45 Mensaje recibido de QHVzZXI3NDA0: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogRGltYXM=
+2025/08/29 11:39:53 Mensaje recibido de QERpbWFz: SG9sYSBkZSBudWV2byE=
+2025/08/29 11:40:09 http: TLS handshake error from 192.168.100.42:47202: remote error: tls: unknown certificate
+2025/08/29 11:40:09 http: TLS handshake error from 192.168.100.42:47204: remote error: tls: unknown certificate
+2025/08/29 11:40:13 http: TLS handshake error from 192.168.100.42:47206: remote error: tls: unknown certificate
+2025/08/29 11:40:13 http: TLS handshake error from 192.168.100.42:47210: remote error: tls: unknown certificate
+2025/08/29 11:40:13 http: TLS handshake error from 192.168.100.42:47234: remote error: tls: unknown certificate
+2025/08/29 11:40:24 Mensaje recibido de QHVzZXI1NzA2: SmVsb3U=
+2025/08/29 11:40:31 Mensaje recibido de QERpbWFz: aG9sYSBxdWUgdGFs
+2025/08/29 11:40:55 Mensaje recibido de QERpbWFz: Pz8/
+2025/08/29 11:41:01 Mensaje recibido de QERpbWFz: aGVsbG8=
+2025/08/29 11:45:29 http: TLS handshake error from 127.0.0.1:45836: remote error: tls: unknown certificate
+2025/08/29 11:45:32 http: TLS handshake error from 127.0.0.1:45848: remote error: tls: unknown certificate
+2025/08/29 11:45:32 http: TLS handshake error from 127.0.0.1:45860: remote error: tls: unknown certificate
+2025/08/29 11:45:43 http: TLS handshake error from 192.168.100.42:45958: remote error: tls: unknown certificate
+2025/08/29 11:45:45 http: TLS handshake error from 192.168.100.42:45962: remote error: tls: unknown certificate
+2025/08/29 11:45:45 http: TLS handshake error from 192.168.100.42:45978: remote error: tls: unknown certificate
+2025/08/29 11:45:45 http: TLS handshake error from 192.168.100.42:45998: remote error: tls: unknown certificate
+2025/08/29 11:45:51 Mensaje recibido de QHVzZXI5Njg4: SG9sYQ==
+2025/08/29 11:46:00 Mensaje recibido de QHVzZXI5Njg4: amVsb3U=
+2025/08/29 11:46:06 http: TLS handshake error from 192.168.100.42:35944: remote error: tls: unknown certificate
+2025/08/29 11:46:13 Mensaje recibido de QHVzZXIyMDc5: UXVlIGhheQ==
+2025/08/29 11:46:25 Mensaje recibido de QHVzZXIyMDc5: Q/NtbyBhbmRhIHRvZG8=
+2025/08/29 11:47:21 http: TLS handshake error from 192.168.100.42:34912: remote error: tls: unknown certificate
+2025/08/29 11:47:33 Mensaje recibido de QHVzZXI5Njg4: U3VwIQ==
+2025/08/29 11:47:40 Mensaje recibido de QHVzZXI5Njg4: amFqYWphamE=
+2025/08/29 11:47:53 http: TLS handshake error from 192.168.100.42:41742: remote error: tls: unknown certificate
+2025/08/29 11:48:43 http: TLS handshake error from 192.168.100.42:48040: remote error: tls: unknown certificate
+2025/08/29 11:48:55 Mensaje recibido de QHVzZXIyMDc5: NDQ0NA==
+2025/08/29 11:50:06 http: TLS handshake error from 192.168.100.3:34190: remote error: tls: unknown certificate
+2025/08/29 11:50:06 http: TLS handshake error from 192.168.100.3:34192: remote error: tls: unknown certificate
+2025/08/29 11:50:10 http: TLS handshake error from 192.168.100.3:34194: remote error: tls: unknown certificate
+2025/08/29 11:50:10 http: TLS handshake error from 192.168.100.3:34196: remote error: tls: unknown certificate
+2025/08/29 11:50:11 http: TLS handshake error from 192.168.100.3:34200: remote error: tls: unknown certificate
+2025/08/29 11:50:18 Mensaje recibido de QHVzZXI5Njg4: VGVzdA==
+2025/08/29 11:50:57 http: TLS handshake error from 192.168.100.3:34290: remote error: tls: unknown certificate
+2025/08/29 11:51:00 http: TLS handshake error from 192.168.100.3:34292: remote error: tls: unknown certificate
+2025/08/29 11:51:00 http: TLS handshake error from 192.168.100.3:34296: remote error: tls: unknown certificate
+2025/08/29 11:51:10 Mensaje recibido de QHVzZXI5Njg4: VGVzdCAy
+2025/08/29 11:51:22 Mensaje recibido de QHVzZXI5Njg4: aG9sYQ==
+2025/08/29 11:51:28 Mensaje recibido de QHVzZXI5Njg4: c2RmYXNkZg==
+2025/08/29 11:55:32 http: TLS handshake error from 127.0.0.1:38164: remote error: tls: unknown certificate
+2025/08/29 11:55:32 http: TLS handshake error from 192.168.100.3:34316: remote error: tls: unknown certificate
+2025/08/29 11:55:32 http: TLS handshake error from 127.0.0.1:38178: remote error: tls: unknown certificate
+2025/08/29 11:55:32 http: TLS handshake error from 127.0.0.1:38208: remote error: tls: unknown certificate
+2025/08/29 11:55:33 http: TLS handshake error from 192.168.100.3:34320: remote error: tls: unknown certificate
+2025/08/29 11:55:38 http: TLS handshake error from 192.168.100.3:34324: remote error: tls: unknown certificate
+2025/08/29 11:57:58 http: TLS handshake error from 192.168.100.42:50422: remote error: tls: unknown certificate
+2025/08/29 11:58:01 http: TLS handshake error from 192.168.100.42:32784: remote error: tls: unknown certificate
+2025/08/29 11:58:01 http: TLS handshake error from 192.168.100.42:32792: remote error: tls: unknown certificate
+2025/08/29 11:58:54 http: TLS handshake error from 127.0.0.1:54992: remote error: tls: unknown certificate
+2025/08/29 11:58:55 http: TLS handshake error from 127.0.0.1:55018: remote error: tls: unknown certificate
+2025/08/29 11:58:55 http: TLS handshake error from 127.0.0.1:55040: remote error: tls: unknown certificate
+2025/08/29 11:58:58 http: TLS handshake error from 192.168.100.3:34328: remote error: tls: unknown certificate
+2025/08/29 11:59:06 http: TLS handshake error from 192.168.100.42:42038: remote error: tls: unknown certificate
+2025/08/29 11:59:06 http: TLS handshake error from 192.168.100.42:42044: remote error: tls: unknown certificate
+2025/08/29 11:59:44 Mensaje recibido de QHVzZXI5MTE5: dHR0
+2025/08/29 12:01:54 http: TLS handshake error from 127.0.0.1:49324: remote error: tls: unknown certificate
+2025/08/29 12:01:56 http: TLS handshake error from 192.168.100.3:34334: remote error: tls: unknown certificate
+2025/08/29 12:02:02 http: TLS handshake error from 192.168.100.42:51334: remote error: tls: unknown certificate
+2025/08/29 12:02:02 http: TLS handshake error from 192.168.100.42:51344: remote error: tls: unknown certificate
+2025/08/29 12:02:10 http: TLS handshake error from 127.0.0.1:44564: remote error: tls: unknown certificate
+2025/08/29 12:02:10 http: TLS handshake error from 127.0.0.1:44576: remote error: tls: unknown certificate
+2025/08/29 12:02:13 Mensaje recibido de QHVzZXIzMzYy: YXNkZmFzZGZhc2Zk
+2025/08/29 12:06:06 http: TLS handshake error from 127.0.0.1:46412: remote error: tls: unknown certificate
+2025/08/29 12:06:08 http: TLS handshake error from 192.168.100.3:34340: remote error: tls: unknown certificate
+2025/08/29 12:06:14 http: TLS handshake error from 192.168.100.42:33360: remote error: tls: unknown certificate
+2025/08/29 12:06:14 http: TLS handshake error from 192.168.100.42:33368: remote error: tls: unknown certificate
+2025/08/29 12:10:08 http: TLS handshake error from 127.0.0.1:51616: remote error: tls: unknown certificate
+2025/08/29 12:10:38 http: TLS handshake error from 127.0.0.1:35864: remote error: tls: unknown certificate
+2025/08/29 12:10:40 http: TLS handshake error from 127.0.0.1:35880: remote error: tls: unknown certificate
+2025/08/29 12:10:40 http: TLS handshake error from 127.0.0.1:35898: remote error: tls: unknown certificate
+2025/08/29 12:10:43 http: TLS handshake error from 192.168.100.3:34344: remote error: tls: unknown certificate
+2025/08/29 12:10:58 Mensaje recibido de QHVzZXI5MzU5: YXNr8WRm8WtoYXNkZg==
+2025/08/29 12:12:43 http: TLS handshake error from 192.168.100.42:57894: remote error: tls: unknown certificate
+2025/08/29 12:12:43 http: TLS handshake error from 192.168.100.42:57900: remote error: tls: unknown certificate
+2025/08/29 12:12:57 Mensaje recibido de QHVzZXI5MzU5: YXNkZnNhZGY=
+2025/08/29 12:14:12 http: TLS handshake error from 127.0.0.1:55088: remote error: tls: unknown certificate
+2025/08/29 12:14:16 http: TLS handshake error from 192.168.100.3:34348: remote error: tls: unknown certificate
+2025/08/29 12:14:32 http: TLS handshake error from 192.168.100.42:57764: remote error: tls: unknown certificate
+2025/08/29 12:14:32 http: TLS handshake error from 192.168.100.42:57774: remote error: tls: unknown certificate
+2025/08/29 12:15:19 http: TLS handshake error from 192.168.100.42:48778: remote error: tls: unknown certificate
+2025/08/29 12:15:19 http: TLS handshake error from 192.168.100.42:48794: remote error: tls: unknown certificate
+2025/08/29 12:15:20 http: TLS handshake error from 192.168.100.3:34354: remote error: tls: unknown certificate
+2025/08/29 12:15:20 http: TLS handshake error from 127.0.0.1:52918: remote error: tls: unknown certificate
+2025/08/29 12:16:13 http: TLS handshake error from 127.0.0.1:47174: remote error: tls: unknown certificate
+2025/08/29 12:16:18 http: TLS handshake error from 127.0.0.1:51688: remote error: tls: unknown certificate
+2025/08/29 12:16:18 http: TLS handshake error from 127.0.0.1:51714: remote error: tls: unknown certificate
+2025/08/29 12:16:34 http: TLS handshake error from 192.168.100.3:34358: remote error: tls: unknown certificate
+2025/08/29 12:16:58 http: TLS handshake error from 192.168.100.42:43300: remote error: tls: unknown certificate
+2025/08/29 12:16:58 http: TLS handshake error from 192.168.100.42:43314: remote error: tls: unknown certificate
+2025/08/29 12:17:38 Mensaje recibido de QHVzZXI0Nzcw: ZWZnc2RnZmRz
+2025/08/29 12:17:53 http: TLS handshake error from 127.0.0.1:39002: remote error: tls: unknown certificate
+2025/08/29 12:17:56 Mensaje recibido de QHVzZXIyMzA=: YXNkZmFzZGZhc2Rm
+2025/08/29 12:18:30 Mensaje recibido de QHVzZXIyMzA=: c2FkZmFzZGY=
+2025/08/29 12:20:41 http: TLS handshake error from 127.0.0.1:39066: remote error: tls: unknown certificate
+2025/08/29 12:20:54 http: TLS handshake error from 192.168.100.3:34366: remote error: tls: unknown certificate
+2025/08/29 12:20:55 http: TLS handshake error from 192.168.100.3:34370: remote error: tls: unknown certificate
+2025/08/29 12:21:04 http: TLS handshake error from 192.168.100.42:58880: remote error: tls: unknown certificate
+2025/08/29 12:21:04 http: TLS handshake error from 192.168.100.42:58894: remote error: tls: unknown certificate
+2025/08/29 12:21:09 Mensaje recibido de QHVzZXIyMzA=: c2Rhc2Rm
+2025/08/29 12:21:58 Mensaje recibido de QHVzZXIyMzA=: c2FkZg==
+2025/08/29 12:21:59 Mensaje recibido de QHVzZXIyMzA=: ZGY=
+2025/08/29 12:22:07 http: TLS handshake error from 127.0.0.1:37296: remote error: tls: unknown certificate
+2025/08/29 12:22:07 http: TLS handshake error from 127.0.0.1:37318: remote error: tls: unknown certificate
+2025/08/29 12:22:13 Mensaje recibido de QHVzZXI3NjA5: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogZGltYXM=
+2025/08/29 12:22:23 http: TLS handshake error from 192.168.100.42:38282: remote error: tls: unknown certificate
+2025/08/29 12:22:23 http: TLS handshake error from 192.168.100.42:38284: remote error: tls: unknown certificate
+2025/08/29 12:22:43 http: TLS handshake error from 127.0.0.1:48292: remote error: tls: unknown certificate
+2025/08/29 12:22:48 http: TLS handshake error from 192.168.100.42:35528: remote error: tls: unknown certificate
+2025/08/29 12:22:48 http: TLS handshake error from 192.168.100.42:35536: remote error: tls: unknown certificate
+2025/08/29 12:22:50 http: TLS handshake error from 192.168.100.3:34374: remote error: tls: unknown certificate
+2025/08/29 12:23:33 http: TLS handshake error from 192.168.100.42:46582: client sent an HTTP request to an HTTPS server
+2025/08/29 12:23:33 http: TLS handshake error from 192.168.100.42:46600: EOF
+2025/08/29 12:23:33 http: TLS handshake error from 192.168.100.42:46584: EOF
+2025/08/29 12:23:33 http: TLS handshake error from 192.168.100.42:46616: client sent an HTTP request to an HTTPS server
+2025/08/29 12:23:52 http: TLS handshake error from 192.168.100.42:37396: remote error: tls: unknown certificate
+2025/08/29 12:23:52 http: TLS handshake error from 192.168.100.42:37410: remote error: tls: unknown certificate
+2025/08/29 12:23:55 http: TLS handshake error from 192.168.100.42:37420: remote error: tls: unknown certificate
+2025/08/29 12:23:55 http: TLS handshake error from 192.168.100.42:37432: remote error: tls: unknown certificate
+2025/08/29 12:23:55 http: TLS handshake error from 192.168.100.42:37440: remote error: tls: unknown certificate
+2025/08/29 12:23:55 http: TLS handshake error from 192.168.100.42:37448: remote error: tls: unknown certificate
+2025/08/29 12:24:01 http: TLS handshake error from 192.168.100.42:53988: remote error: tls: unknown certificate
+2025/08/29 12:24:34 http: TLS handshake error from 192.168.100.42:37940: remote error: tls: unknown certificate
+2025/08/29 12:24:51 Mensaje recibido de QHVzZXI1Mjc5: SG9sYSEhIQ==
+2025/08/29 12:24:58 Mensaje recibido de QGRpbWFz: c2Rhc2RyZg==
+2025/08/29 12:25:17 Mensaje recibido de QHVzZXI1Mjc5: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogQW5kcmVz
+2025/08/29 12:25:29 http: TLS handshake error from 192.168.100.42:55736: client sent an HTTP request to an HTTPS server
+2025/08/29 12:25:43 http: TLS handshake error from 192.168.100.3:34378: remote error: tls: unknown certificate
+2025/08/29 12:26:00 http: TLS handshake error from 127.0.0.1:45928: remote error: tls: unknown certificate
+2025/08/29 12:26:00 http: TLS handshake error from 127.0.0.1:45956: remote error: tls: unknown certificate
+2025/08/29 12:26:08 http: TLS handshake error from 192.168.100.42:55738: read tcp 192.168.100.26:8443->192.168.100.42:55738: read: connection reset by peer
+2025/08/29 12:29:51 http: TLS handshake error from 192.168.100.42:47826: remote error: tls: unknown certificate
+2025/08/29 12:29:51 http: TLS handshake error from 192.168.100.42:47842: remote error: tls: unknown certificate
+2025/08/29 12:29:52 http: TLS handshake error from 192.168.100.42:47856: remote error: tls: unknown certificate
+2025/08/29 12:29:55 http: TLS handshake error from 192.168.100.42:47876: remote error: tls: unknown certificate
+2025/08/29 12:29:59 http: TLS handshake error from 192.168.100.42:36594: remote error: tls: unknown certificate
+2025/08/29 12:30:13 http: TLS handshake error from 192.168.100.3:34388: remote error: tls: unknown certificate
+2025/08/29 12:30:14 http: TLS handshake error from 192.168.100.3:34392: remote error: tls: unknown certificate
+2025/08/29 12:30:14 http: TLS handshake error from 192.168.100.3:34394: remote error: tls: unknown certificate
+2025/08/29 12:30:21 http: TLS handshake error from 192.168.100.3:34400: remote error: tls: unknown certificate
+2025/08/29 12:30:21 http: TLS handshake error from 192.168.100.3:34402: remote error: tls: unknown certificate
+2025/08/29 12:30:23 http: TLS handshake error from 192.168.100.42:38580: remote error: tls: unknown certificate
+2025/08/29 12:31:12 http: TLS handshake error from 192.168.100.3:34464: remote error: tls: unknown certificate
+2025/08/29 12:31:12 http: TLS handshake error from 192.168.100.3:34466: remote error: tls: unknown certificate
+2025/08/29 12:31:54 http: TLS handshake error from 127.0.0.1:41368: remote error: tls: unknown certificate
+2025/08/29 12:31:58 http: TLS handshake error from 192.168.100.3:34482: remote error: tls: unknown certificate
+2025/08/29 12:31:58 http: TLS handshake error from 192.168.100.3:34484: remote error: tls: unknown certificate
+2025/08/29 12:32:01 http: TLS handshake error from 192.168.100.42:58054: remote error: tls: unknown certificate
+2025/08/29 12:32:01 http: TLS handshake error from 192.168.100.42:58062: remote error: tls: unknown certificate
+2025/08/29 12:32:01 http: TLS handshake error from 192.168.100.42:58084: remote error: tls: unknown certificate
+2025/08/29 12:32:06 http: TLS handshake error from 192.168.100.42:58108: remote error: tls: unknown certificate
+2025/08/29 12:32:12 Mensaje recibido de QHVzZXIzMzQ0: enhjdnhjenY=
+2025/08/29 12:32:19 Mensaje recibido de QHVzZXIyMzgz: SXhpaG94aHFm
+2025/08/29 12:32:48 http: TLS handshake error from 192.168.100.3:34558: remote error: tls: unknown certificate
+2025/08/29 12:33:58 http: TLS handshake error from 192.168.100.3:34570: remote error: tls: unknown certificate
+2025/08/29 12:36:24 http: TLS handshake error from 127.0.0.1:45204: remote error: tls: unknown certificate
+2025/08/29 12:36:24 http: TLS handshake error from 127.0.0.1:45218: remote error: tls: unknown certificate
+2025/08/29 12:36:30 Mensaje recibido de QHVzZXI5MDQy: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogRGltYXM=
+2025/08/29 12:36:35 Mensaje recibido de QERpbWFz: enhmZGc=
+2025/08/29 12:36:42 http: TLS handshake error from 192.168.100.42:36884: remote error: tls: unknown certificate
+2025/08/29 12:36:48 Mensaje recibido de QERpbWFz: c2RmYXNkZg==
+2025/08/29 12:36:52 http: TLS handshake error from 192.168.100.42:36712: remote error: tls: unknown certificate
+2025/08/29 12:36:53 http: TLS handshake error from 192.168.100.42:36720: remote error: tls: unknown certificate
+2025/08/29 12:36:53 http: TLS handshake error from 192.168.100.42:36738: remote error: tls: unknown certificate
+2025/08/29 12:36:57 Mensaje recibido de QERpbWFz: ZGZnc2RmZw==
+2025/08/29 12:37:04 Mensaje recibido de QERpbWFz: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogQW5kcmVz
+2025/08/29 12:37:08 Mensaje recibido de QEFuZHJlcw==: YXNkYXNkZmFzZGY=
+2025/08/29 12:37:12 Mensaje recibido de QHVzZXI5NzQ4: S3Nqc2pzanM=
+2025/08/29 12:39:44 http: TLS handshake error from 127.0.0.1:45630: remote error: tls: unknown certificate
+2025/08/29 12:39:46 http: TLS handshake error from 127.0.0.1:45640: remote error: tls: unknown certificate
+2025/08/29 12:39:46 http: TLS handshake error from 127.0.0.1:45654: remote error: tls: unknown certificate
+2025/08/29 12:40:29 http: TLS handshake error from 192.168.100.3:34588: remote error: tls: unknown certificate
+2025/08/29 12:40:42 http: TLS handshake error from 192.168.100.42:53546: remote error: tls: unknown certificate
+2025/08/29 12:40:42 http: TLS handshake error from 192.168.100.42:53558: remote error: tls: unknown certificate
+2025/08/29 12:40:42 http: TLS handshake error from 192.168.100.42:53588: remote error: tls: unknown certificate
+2025/08/29 12:40:45 Mensaje recibido de QHVzZXI4OTc4: YXNkZmFzZGY=
+2025/08/29 12:40:51 Mensaje recibido de QHVzZXI4OTc4: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogRGltYXM=
+2025/08/29 12:40:53 Mensaje recibido de QERpbWFz: YXNkZnNkZg==
+2025/08/29 12:40:57 Mensaje recibido de QHVzZXIzNTg4: WW8=
+2025/08/29 12:41:07 Mensaje recibido de QHVzZXIzNTg4: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogWW8gTW9iaWxl
+2025/08/29 12:41:09 Mensaje recibido de QFlvX01vYmlsZQ==: SXZ3aXh2d2l2cWl2enE=
+2025/08/29 13:52:13 http: TLS handshake error from [::1]:44538: remote error: tls: unknown certificate
+2025/08/29 13:52:13 http: TLS handshake error from [::1]:44548: remote error: tls: unknown certificate
+2025/08/29 13:52:20 Mensaje recibido de QHVzZXI1ODM5: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogRGltYXM=
+2025/08/29 13:52:23 Mensaje recibido de QERpbWFz: SG9sYQ==
+2025/08/29 13:52:38 http: TLS handshake error from [::1]:36850: remote error: tls: unknown certificate
+2025/08/29 13:53:41 http: TLS handshake error from 192.168.100.42:45468: remote error: tls: bad certificate
+2025/08/29 13:54:08 http: TLS handshake error from [::1]:49640: remote error: tls: unknown certificate
+2025/08/29 13:54:09 http: TLS handshake error from [::1]:49652: remote error: tls: unknown certificate
+2025/08/29 14:03:54 http: TLS handshake error from [::1]:51424: remote error: tls: unknown certificate
+2025/08/29 14:03:54 http: TLS handshake error from [::1]:51448: remote error: tls: unknown certificate
+2025/08/29 14:03:58 http: TLS handshake error from [::1]:44038: remote error: tls: unknown certificate
+2025/08/29 14:04:03 http: TLS handshake error from [::1]:44056: remote error: tls: unknown certificate
+2025/08/29 14:04:11 Mensaje recibido de QHVzZXIxNzUy: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogRGltYXM=
+2025/08/29 14:04:13 Mensaje recibido de QERpbWFz: YXNkZmFzZGY=
+2025/08/29 14:04:18 Mensaje recibido de QERpbWFz: YXNkZg==

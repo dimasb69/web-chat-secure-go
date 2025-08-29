@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Seguro</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            background: #f5f5f5;
+        }
+
+        #chat {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            margin: 10px; /* Ajustado para ser uniforme */
+            border-radius: 8px 8px 0 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .message {
+            display: flex;
+            flex-direction: column;
+            margin: 8px 0;
+            width: 100%;
+            align-items: flex-start; /* Alineación por defecto a la izquierda */
+        }
+
+        .message.own {
+            align-items: flex-end; /* Alineación a la derecha para mensajes propios */
+        }
+
+        .message .username {
+            font-size: 0.9em; /* Aumentado para mejor visibilidad */
+            margin-bottom: 4px;
+            color: #666;
+        }
+
+        .message .content {
+            padding: 12px 18px;
+            border-radius: 15px;
+            background: #e9ecef;
+            color: #333;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+            max-width: 70%;
+            word-wrap: break-word; /* Asegura que el texto largo se ajuste */
+        }
+
+        .own .content {
+            background: #007bff;
+            color: white;
+        }
+
+        #input {
+            display: flex;
+            flex-direction: column; /* Cambiado a columna para mejor alineación */
+            padding: 20px;
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            margin: 10px; /* Ajustado para ser uniforme */
+            border-radius: 0 0 8px 8px;
+            gap: 10px; /* Ajustado para ser uniforme */
+        }
+
+        #input textarea {
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            resize: none;
+            min-height: 80px;
+            max-height: 150px;
+            transition: all 0.3s;
+            line-height: 1.4;
+            width: 100%; /* Asegura que ocupe el ancho completo */
+            box-sizing: border-box; /* Incluye padding y border en el ancho total */
+        }
+
+        #input button {
+            padding: 15px 20px; /* Ajustado para ser más compacto */
+            border: none;
+            background: #007bff;
+            color: white;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+
+        #username {
+            padding: 15px 20px;
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            margin: 10px; /* Ajustado para ser uniforme */
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            gap: 10px; /* Ajustado para ser uniforme */
+        }
+
+        #username input {
+            flex: 1;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        #username button {
+            padding: 12px 20px; /* Ajustado para ser más compacto */
+            border: none;
+            background: #28a745;
+            color: white;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+
+        .status-message {
+            padding: 10px 15px;
+            margin: 10px;
+            border-radius: 8px;
+            text-align: center;
+            animation: fadeIn 0.3s ease-in;
+        }
+
+        .status-message.success {
+            background-color: #e8f5e9;
+            color: #2e7d32;
+            border: 1px solid #a5d6a7;
+        }
+
+        .status-message.error {
+            background-color: #ffebee;
+            color: #c62828;
+            border: 1px solid #ef9a9a;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Media Queries para Responsividad */
+        @media (max-width: 600px) {
+            #input, #username {
+                flex-direction: column; /* Cambiar a columna en pantallas pequeñas */
+            }
+
+            #input textarea, #username input {
+                width: 100%; /* Asegurar que ocupen el ancho completo */
+                max-width: 100%; /* Asegurar que no excedan el ancho del contenedor */
+            }
+
+            #input button, #username button {
+                width: 100%; /* Asegurar que ocupen el ancho completo */
+                margin-top: 10px; /* Espacio entre botones */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="chat"></div>
+    <div id="input">
+        <textarea id="message" placeholder="Escribe un mensaje... (Ctrl+Enter para enviar)" rows="3"></textarea>
+        <button id="sendButton">Enviar</button>
+    </div>
+    <div id="username">
+        <input type="text" id="usernameInput" placeholder="Escribe tu nombre de usuario..." value="@userXXXX">
+        <button id="setUsernameButton">Guardar Nombre</button>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Solicitar permiso para notificaciones
+        if (Notification.permission !== "granted") {
+            Notification.requestPermission();
+        }
+
+        const chat = document.getElementById('chat');
+        const messageInput = document.getElementById('message');
+        const usernameInput = document.getElementById('usernameInput');
+        const sendButton = document.getElementById('sendButton');
+        const setUsernameButton = document.getElementById('setUsernameButton');
+
+        let username = '';
+        let ws = null;
+        let isMultiLine = false;
+
+        messageInput.disabled = true;
+        sendButton.disabled = true;
+        setUsernameButton.disabled = true;
+
+        function showStatus(message, isError = false) {
+            const status = document.createElement('div');
+            status.className = `status-message ${isError ? 'error' : 'success'}`;
+            status.textContent = message;
+            chat.appendChild(status);
+            chat.scrollTop = chat.scrollHeight;
+            setTimeout(() => {
+                if (status && status.parentNode) {
+                    status.remove();
+                }
+            }, 5000);
+        }
+
+        function sendMessage() {
+            const content = messageInput.value.trim();
+            if (content && ws && ws.readyState === WebSocket.OPEN) {
+                try {
+                    ws.send(JSON.stringify({
+                        username,
+                        content: btoa(content)
+                    }));
+                    messageInput.value = '';
+                    messageInput.focus();
+                } catch (error) {
+                    showStatus('Error al enviar mensaje: ' + error.message, true);
+                }
+            } else if (!ws || ws.readyState !== WebSocket.OPEN) {
+                showStatus('No hay conexión con el servidor...', true);
+            }
+        }
+
+        function initWebSocket() {
+            ws = new WebSocket(`wss://${window.location.host}/ws`);
+            
+            ws.onopen = () => {
+                showStatus('Conectado al servidor');
+                messageInput.disabled = false;
+                sendButton.disabled = false;
+            };
+
+            ws.onclose = () => {
+                showStatus('Conexión perdida. Reconectando...', true);
+                messageInput.disabled = true;
+                sendButton.disabled = true;
+                setUsernameButton.disabled = true;
+                setTimeout(initWebSocket, 3000);
+            };
+
+            ws.onerror = () => {
+                showStatus('Error de conexión', true);
+            };
+
+            ws.onmessage = (event) => {
+                try {
+                    const msg = JSON.parse(event.data);
+                    if (!username && msg.username) {
+                        username = msg.username;
+                        usernameInput.value = username;
+                        setUsernameButton.disabled = false;
+                        showStatus(`¡Bienvenido! Tu nombre de usuario es: ${username}`);
+                    }
+
+                    if (msg.content === btoa('Se ha conectado al chat')) {
+                        return;
+                    }
+
+                    const messageDiv = document.createElement('div');
+                    messageDiv.className = `message ${msg.username === username ? 'own' : 'other'}`;
+
+                    const userSpan = document.createElement('span');
+                    userSpan.className = 'username';
+                    userSpan.textContent = msg.username;
+
+                    const contentSpan = document.createElement('span');
+                    contentSpan.className = 'content';
+                    contentSpan.textContent = atob(msg.content);
+                    
+                    if (msg.isMentioned) {
+                        contentSpan.style.fontWeight = 'bold';
+                    }
+
+                    messageDiv.appendChild(userSpan);
+                    messageDiv.appendChild(contentSpan);
+                    chat.appendChild(messageDiv);
+
+                    // Emitir notificación si el mensaje no es tuyo
+                    if (msg.username !== username) {
+                        new Notification(`Nuevo mensaje de ${msg.username}`, {
+                            body: atob(msg.content), // Desencriptar el contenido para mostrarlo
+                        });
+                    }
+
+                    const messages = chat.getElementsByClassName('message');
+                    while (messages.length > 40) {
+                        chat.removeChild(messages[0]);
+                    }
+
+                    chat.scrollTop = chat.scrollHeight;
+                } catch (error) {
+                    console.error('Error al procesar mensaje:', error);
+                }
+            };
+        }
+
+        messageInput.addEventListener('keydown', (event) => {
+            if (event.key === 'Enter') {
+                if (event.ctrlKey) {
+                    event.preventDefault();
+                    sendMessage();
+                } else {
+                    if (!isMultiLine) {
+                        isMultiLine = true;
+                        event.preventDefault();
+                        messageInput.value += '\n';
+                    }
+                }
+            }
+        });
+
+        messageInput.addEventListener('keyup', (event) => {
+            if (event.key === 'Enter') {
+                isMultiLine = false;
+            }
+        });
+
+        sendButton.addEventListener('click', sendMessage);
+
+        setUsernameButton.addEventListener('click', () => {
+            const newUsername = usernameInput.value.trim();
+            if (newUsername) {
+                const tempUsername = newUsername.startsWith('@') ? newUsername : '@' + newUsername;
+                const finalUsername = tempUsername.replace(/\s+/g, '_');
+                const tempMensaje = `Actualizo su usuario a: ${newUsername}`;
+                
+                ws.send(JSON.stringify({
+                    username,
+                    content: btoa(tempMensaje)
+                }));
+                
+                username = finalUsername;
+                showStatus('Nombre de usuario actualizado a: ' + username);
+                usernameInput.value = username; // Asegurarse de que el campo muestre el nuevo nombre
+                setUsernameButton.disabled = false; // Habilitar el botón para cambiar el nombre
+            }
+        });
+
+        initWebSocket();
+    });
+    </script>
+</body>
+</html>
