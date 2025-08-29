@@ -88,7 +88,7 @@
         }
 
         #input button {
-            padding: 15px 20px; /* Ajustado para ser más compacto */
+            padding: 15px 20px;
             border: none;
             background: #007bff;
             color: white;
@@ -97,6 +97,11 @@
             font-size: 16px;
             font-weight: bold;
             transition: all 0.3s;
+            width: auto;
+            max-width: 100px;
+            margin-top: 10px;
+            margin-left: auto;
+            float: right;
         }
 
         #username {
@@ -167,7 +172,12 @@
                 max-width: 100%; /* Asegurar que no excedan el ancho del contenedor */
             }
 
-            #input button, #username button {
+            #input button {
+                width: auto;
+                max-width: 150px;
+            }
+
+            #username button {
                 width: 100%; /* Asegurar que ocupen el ancho completo */
                 margin-top: 10px; /* Espacio entre botones */
             }

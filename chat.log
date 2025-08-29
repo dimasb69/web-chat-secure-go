@@ -340,3 +340,77 @@
 2025/08/29 14:04:11 Mensaje recibido de QHVzZXIxNzUy: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogRGltYXM=
 2025/08/29 14:04:13 Mensaje recibido de QERpbWFz: YXNkZmFzZGY=
 2025/08/29 14:04:18 Mensaje recibido de QERpbWFz: YXNkZg==
+2025/08/29 14:11:53 http: TLS handshake error from [::1]:42072: remote error: tls: unknown certificate
+2025/08/29 14:11:54 http: TLS handshake error from [::1]:42092: remote error: tls: unknown certificate
+2025/08/29 14:11:54 http: TLS handshake error from [::1]:42110: remote error: tls: unknown certificate
+2025/08/29 14:11:57 http: TLS handshake error from [::1]:42122: remote error: tls: unknown certificate
+2025/08/29 14:11:57 http: TLS handshake error from [::1]:42130: remote error: tls: unknown certificate
+2025/08/29 14:11:57 http: TLS handshake error from [::1]:33970: remote error: tls: unknown certificate
+2025/08/29 14:11:58 http: TLS handshake error from [::1]:33986: remote error: tls: unknown certificate
+2025/08/29 14:13:20 http: TLS handshake error from [::1]:53836: remote error: tls: unknown certificate
+2025/08/29 14:13:20 http: TLS handshake error from [::1]:53860: remote error: tls: unknown certificate
+2025/08/29 14:13:20 http: TLS handshake error from [::1]:53874: remote error: tls: unknown certificate
+2025/08/29 14:13:21 http: TLS handshake error from [::1]:53904: remote error: tls: unknown certificate
+2025/08/29 14:13:21 http: TLS handshake error from [::1]:53914: remote error: tls: unknown certificate
+2025/08/29 14:13:21 http: TLS handshake error from [::1]:53928: remote error: tls: unknown certificate
+2025/08/29 14:13:22 http: TLS handshake error from [::1]:53946: remote error: tls: unknown certificate
+2025/08/29 14:13:22 http: TLS handshake error from [::1]:53962: remote error: tls: unknown certificate
+2025/08/29 14:13:22 http: TLS handshake error from [::1]:53988: remote error: tls: unknown certificate
+2025/08/29 14:13:23 http: TLS handshake error from [::1]:54000: remote error: tls: unknown certificate
+2025/08/29 14:15:07 http: TLS handshake error from [::1]:56476: remote error: tls: unknown certificate
+2025/08/29 14:15:09 http: TLS handshake error from [::1]:59244: remote error: tls: unknown certificate
+2025/08/29 14:15:09 http: TLS handshake error from [::1]:59260: remote error: tls: unknown certificate
+2025/08/29 14:15:10 http: TLS handshake error from [::1]:59286: remote error: tls: unknown certificate
+2025/08/29 14:15:11 http: TLS handshake error from [::1]:59312: remote error: tls: unknown certificate
+2025/08/29 14:15:11 http: TLS handshake error from [::1]:59320: remote error: tls: unknown certificate
+2025/08/29 14:15:11 http: TLS handshake error from [::1]:59340: remote error: tls: unknown certificate
+2025/08/29 14:15:11 http: TLS handshake error from [::1]:59360: remote error: tls: unknown certificate
+2025/08/29 14:16:21 http: TLS handshake error from [::1]:45280: remote error: tls: unknown certificate
+2025/08/29 14:16:23 http: TLS handshake error from [::1]:45302: remote error: tls: unknown certificate
+2025/08/29 14:16:23 http: TLS handshake error from [::1]:45326: remote error: tls: unknown certificate
+2025/08/29 14:16:27 http: TLS handshake error from [::1]:45336: remote error: tls: unknown certificate
+2025/08/29 14:17:23 http: TLS handshake error from [::1]:34802: remote error: tls: unknown certificate
+2025/08/29 14:17:24 http: TLS handshake error from [::1]:34824: remote error: tls: unknown certificate
+2025/08/29 14:17:24 http: TLS handshake error from [::1]:34842: remote error: tls: unknown certificate
+2025/08/29 14:18:35 http: TLS handshake error from [::1]:55418: remote error: tls: unknown certificate
+2025/08/29 14:18:36 http: TLS handshake error from [::1]:55442: remote error: tls: unknown certificate
+2025/08/29 14:18:36 http: TLS handshake error from [::1]:55462: remote error: tls: unknown certificate
+2025/08/29 14:18:37 http: TLS handshake error from [::1]:55488: remote error: tls: unknown certificate
+2025/08/29 14:18:37 http: TLS handshake error from [::1]:59132: remote error: tls: unknown certificate
+2025/08/29 14:18:50 Mensaje recibido de QHVzZXI2MjY=: YXNkZnNm
+2025/08/29 14:21:04 http: TLS handshake error from [::1]:53008: remote error: tls: unknown certificate
+2025/08/29 14:21:04 http: TLS handshake error from [::1]:53030: remote error: tls: unknown certificate
+2025/08/29 14:21:06 http: TLS handshake error from [::1]:53040: remote error: tls: unknown certificate
+2025/08/29 14:21:06 http: TLS handshake error from [::1]:53058: remote error: tls: unknown certificate
+2025/08/29 14:21:06 http: TLS handshake error from [::1]:53082: remote error: tls: unknown certificate
+2025/08/29 14:21:06 http: TLS handshake error from [::1]:53106: remote error: tls: unknown certificate
+2025/08/29 14:21:07 http: TLS handshake error from [::1]:53128: remote error: tls: unknown certificate
+2025/08/29 14:21:07 http: TLS handshake error from [::1]:53144: remote error: tls: unknown certificate
+2025/08/29 14:21:07 http: TLS handshake error from [::1]:53160: remote error: tls: unknown certificate
+2025/08/29 14:43:29 http: TLS handshake error from [::1]:37230: remote error: tls: unknown certificate
+2025/08/29 14:43:31 http: TLS handshake error from [::1]:37252: remote error: tls: unknown certificate
+2025/08/29 14:43:31 http: TLS handshake error from [::1]:37272: remote error: tls: unknown certificate
+2025/08/29 14:43:32 http: TLS handshake error from [::1]:37290: remote error: tls: unknown certificate
+2025/08/29 14:43:32 http: TLS handshake error from [::1]:37312: remote error: tls: unknown certificate
+2025/08/29 14:43:34 http: TLS handshake error from [::1]:37332: remote error: tls: unknown certificate
+2025/08/29 14:43:34 http: TLS handshake error from [::1]:37360: remote error: tls: unknown certificate
+2025/08/29 14:43:34 http: TLS handshake error from [::1]:37368: remote error: tls: unknown certificate
+2025/08/29 14:43:34 http: TLS handshake error from [::1]:37378: remote error: tls: unknown certificate
+2025/08/29 14:43:34 http: TLS handshake error from [::1]:37410: remote error: tls: unknown certificate
+2025/08/29 14:43:34 http: TLS handshake error from [::1]:37438: remote error: tls: unknown certificate
+2025/08/29 14:43:35 http: TLS handshake error from [::1]:37442: remote error: tls: unknown certificate
+2025/08/29 14:43:35 http: TLS handshake error from [::1]:37466: remote error: tls: unknown certificate
+2025/08/29 14:44:14 http: TLS handshake error from [::1]:43424: remote error: tls: unknown certificate
+2025/08/29 14:44:14 http: TLS handshake error from [::1]:43432: remote error: tls: unknown certificate
+2025/08/29 14:44:16 http: TLS handshake error from [::1]:43440: remote error: tls: unknown certificate
+2025/08/29 14:44:16 http: TLS handshake error from [::1]:43444: remote error: tls: unknown certificate
+2025/08/29 14:44:17 http: TLS handshake error from [::1]:43460: remote error: tls: unknown certificate
+2025/08/29 14:46:18 http: TLS handshake error from [::1]:37046: remote error: tls: unknown certificate
+2025/08/29 14:46:23 http: TLS handshake error from [::1]:37064: remote error: tls: unknown certificate
+2025/08/29 14:46:23 http: TLS handshake error from [::1]:37080: remote error: tls: unknown certificate
+2025/08/29 14:50:27 http: TLS handshake error from [::1]:48922: remote error: tls: unknown certificate
+2025/08/29 14:50:28 http: TLS handshake error from [::1]:59918: remote error: tls: unknown certificate
+2025/08/29 14:50:28 http: TLS handshake error from [::1]:59926: remote error: tls: unknown certificate
+2025/08/29 14:51:16 Mensaje recibido de QHVzZXI1NzU0: SG9sYQ==
+2025/08/29 14:51:21 Mensaje recibido de QHVzZXI1NzU0: QWN0dWFsaXpvIHN1IHVzdWFyaW8gYTogRGltYXM=
+2025/08/29 14:51:25 Mensaje recibido de QERpbWFz: SmVsb3U=
